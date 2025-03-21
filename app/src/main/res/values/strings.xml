@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsApp_ITMO</string>
+    <string name="no_data_availanle">No data available</string>
+    <string name="error">Error occurred. Plz try again later</string>
+</resources>
