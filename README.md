@@ -1,0 +1,2 @@
+local.properties
+API_KEY = e5b371fe67f14f9094a834916a55a1b8
